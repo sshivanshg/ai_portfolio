@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "info": "Shivansh Gupta",
+    "description": "Masters from VIT Vellore, Experienced Software Engineer, YouTuber (RoadsideCoder). Born and raised in Kanpur, Uttar Pradesh. I currently live in Gurugram. I used to work as a professional voice over artist in the past."
+  },
+  {
+    "id": 2,
+    "info": "Education",
+    "description": "Masters from VIT Vellore"
+  },
+  {
+    "id": 3,
+    "info": "Profession",
+    "description": "Professional Voiceover Artist (Past), Experienced Software Engineer (Current)"
+  },
+  {
+    "id": 5,
+    "info": "Instagram",
+    "description": "@shivvansh_1101 where he posts reels on frontend development"
+  },
+  {
+    "id": 5,
+    "info": "Twitter",
+    "description": "@Piyush_eon"
+  },
+  {
+    "id": 6,
+    "info": "Personal Project",
+    "description": "Made a Chat App using MERN Stack, Code for that project - https://github.com/piyush-eon/mern-chat-app"
+  }
+]
