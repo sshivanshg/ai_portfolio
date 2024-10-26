@@ -38,7 +38,7 @@ export default function Home() {
                     } m-2 p-2 px-4 w-[70%] md:w-[80%] mt-4 text-gray-200`}
                     key={`message-${index}`}
                   >
-                    <b>{message.role === "user" ? "User:" : "Piyush:"}</b>{" "}
+                    <b>{message.role === "user" ? "User:" : "Shivansh:"}</b>{" "}
                     {message.content}
                   </div>
                 );

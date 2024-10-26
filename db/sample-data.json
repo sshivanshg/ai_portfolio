@@ -1,32 +1,62 @@
 [
   {
     "id": 1,
-    "info": "Shivansh Gupta",
-    "description": "Masters from VIT Vellore, Experienced Software Engineer, YouTuber (RoadsideCoder). Born and raised in Kanpur, Uttar Pradesh. I currently live in Gurugram. I used to work as a professional voice over artist in the past."
+    "info": "Personal Project",
+    "description": "Developed a full-stack URL Shortener using React.js, TailwindCSS, Vite, Supabase, and JavaScript. Features include user authentication, URL shortening with custom links, QR code generation, click tracking (count and location), personalized dashboards, and profile customization."
   },
   {
     "id": 2,
-    "info": "Education",
-    "description": "Masters from VIT Vellore"
+    "info": "Personal Project",
+    "description": "Built a Jio Cinema clone web application replicating the UI and functionality of the original platform. Used HTML, CSS, React, and JavaScript, incorporating video streaming features, user interface components, media management, dynamic routing, and state management."
   },
   {
     "id": 3,
-    "info": "Profession",
-    "description": "Professional Voiceover Artist (Past), Experienced Software Engineer (Current)"
+    "info": "Personal Project",
+    "description": "Created an interactive sliding tiles puzzle game with smooth animations and intuitive gameplay using JavaScript, HTML, and CSS. Implemented dynamic tile movements and game logic to ensure an optimal user experience across devices."
+  },
+  {
+    "id": 4,
+    "info": "Education",
+    "description": "Currently a 2nd-year B.Tech student in Artificial Intelligence at Newton School of Technology, Rishihood University, with a CGPA of 7.05/10. Graduated with 71.2% in Class XII from Mahatma Hansraj Modern School and 81.42% in Class X from Sun International School."
   },
   {
     "id": 5,
-    "info": "Instagram",
-    "description": "@shivvansh_1101 where he posts reels on frontend development"
-  },
-  {
-    "id": 5,
-    "info": "Twitter",
-    "description": "@Piyush_eon"
+    "info": "Professional Summary",
+    "description": "Detail-oriented and technically proficient Front-End Developer with a strong foundation in HTML, CSS, and JavaScript, actively seeking an entry-level position to build responsive and user-centric websites."
   },
   {
     "id": 6,
-    "info": "Personal Project",
-    "description": "Made a Chat App using MERN Stack, Code for that project - https://github.com/piyush-eon/mern-chat-app"
+    "info": "Instagram",
+    "description": "Instagram handle @shivvansh_1101, where he shares posts about his life and interests."
+  },
+  {
+    "id": 7,
+    "info": "Extracurriculars",
+    "description": "Organized the first techno-cultural fest in college as a core committee member and head of marketing; serves as the head of marketing and content creation for Google Developer Groups at Rishihood University."
+  },
+  {
+    "id": 8,
+    "info": "Trading and Finance",
+    "description": "Has 1.5 years of hands-on experience in technical analysis and financial markets, including active trading and investment expertise."
+  },
+  {
+    "id": 9,
+    "info": "Skills",
+    "description": "Proficient in HTML, CSS, JavaScript, and Python, with additional skills in Node.js, Tailwind CSS, MySQL, and React. Completed additional coursework in Data Structures."
+  },
+  {
+    "id": 10,
+    "info": "Soft Skills",
+    "description": "Strong in presentation skills, creativity, teamwork, and communication."
+  },
+  {
+    "id": 11,
+    "info": "Social Media",
+    "description": "Active on LinkedIn (https://www.linkedin.com/in/shivansh-gupta-a0400827b/), GitHub (https://github.com/sshivanshg), CodeChef (https://www.codechef.com/users/sshivanshg), Codeforces (https://codeforces.com/profile/sshivanshg11), and LeetCode (https://leetcode.com/u/shivansh_7394/)."
+  },
+  {
+    "id": 12,
+    "info": "Contact Information",
+    "description": "Phone: +917394887890, Email: shivansh.g23csai@nst.rishihood.edu.in"
   }
 ]
